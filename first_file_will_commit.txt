@@ -1,1 +1,3 @@
 first_file_will_commit
+
+Added a new line
